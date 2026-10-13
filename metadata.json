@@ -1,0 +1,6 @@
+{
+  "name": "SpringBoot Studio - 3-Tier Architecture & Submission Workbench",
+  "description": "Interactive design, development, simulation and academic submission workbench for a Spring Boot 3-tier REST application featuring auto-configuration, domain entities, business rules, JUnit testing, and downloadable Maven project.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
